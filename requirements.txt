@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-rembg
-pillow
+httpx
 python-multipart
